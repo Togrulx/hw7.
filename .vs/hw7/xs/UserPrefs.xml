@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{3D2AEAE1-2BFD-47D9-A61A-CF666C282378}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.hw7 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="hw7/Services/Implimentations/BookService.cs">
+    <Files>
+      <File FileName="hw7/Program.cs" Line="1" Column="1" />
+      <File FileName="hw7/Services/Implimentations/BookService.cs" Line="6" Column="3" />
+      <File FileName="hw7/Services/Interfaces/IBookService.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hw7" expanded="True">
+            <Node name="hw7" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Implimentations" expanded="True">
+                  <Node name="BookService.cs" selected="True" />
+                </Node>
+                <Node name="Interfaces" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="hw7.Core" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.hw7.Core FirstBuild="True" />
+</Properties>

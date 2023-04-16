@@ -1,0 +1,12 @@
+/Users/togrultalibov/Desktop/hw7/hw7.Core/bin/Debug/net7.0/hw7.Core.deps.json
+/Users/togrultalibov/Desktop/hw7/hw7.Core/bin/Debug/net7.0/hw7.Core.dll
+/Users/togrultalibov/Desktop/hw7/hw7.Core/bin/Debug/net7.0/hw7.Core.pdb
+/Users/togrultalibov/Desktop/hw7/hw7.Core/obj/Debug/net7.0/hw7.Core.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/hw7/hw7.Core/obj/Debug/net7.0/hw7.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/hw7/hw7.Core/obj/Debug/net7.0/hw7.Core.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/hw7/hw7.Core/obj/Debug/net7.0/hw7.Core.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/hw7/hw7.Core/obj/Debug/net7.0/hw7.Core.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/hw7/hw7.Core/obj/Debug/net7.0/hw7.Core.dll
+/Users/togrultalibov/Desktop/hw7/hw7.Core/obj/Debug/net7.0/refint/hw7.Core.dll
+/Users/togrultalibov/Desktop/hw7/hw7.Core/obj/Debug/net7.0/hw7.Core.pdb
+/Users/togrultalibov/Desktop/hw7/hw7.Core/obj/Debug/net7.0/ref/hw7.Core.dll
